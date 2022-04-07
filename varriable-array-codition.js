@@ -11,11 +11,11 @@ items.pop();
 
 //conditional 
 if(items.length >=4){
-    console.log('You have too my stuff on your desk.')
+    console.log('You have too my stuff on your desk.');
 }
 else if(items.length == 4){
-    console.log('you only have one hali items')
+    console.log('you only have one hali items');
 }
 else{
-    console.log('wow! You have a clean desk.')
+    console.log('wow! You have a clean desk.');
 }
